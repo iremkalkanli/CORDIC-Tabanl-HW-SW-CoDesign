@@ -22,7 +22,7 @@ The numbers 10 and 20 are given. At the end of the calculation, the expected res
 
 ### The Output
 
-![Output]( )
+![Output](https://github.com/iremkalkanli/CORDIC-Tabanl-HW-SW-CoDesign/blob/e0bcd10184291732d21ef3f248f848b527797755/Readme%20photos/output.png)
 ## Contributors
 - [@ozlemcali](https://www.github.com/ozlemcali) design, development and documentation.
 
