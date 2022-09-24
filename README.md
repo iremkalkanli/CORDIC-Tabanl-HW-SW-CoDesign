@@ -14,7 +14,7 @@ $${\sqrt{\sqrt{A^2+B^2}A*B} }$$
 The project was developed on the PYNQ Z2 development board with ZYNQ architecture. </br>
 ### PYNQ Z2
 
-![PYNQ Z2](https://cdn-pro-web-152-50-godomall.spdycdn.net/inipro2_godomall_com/data/goods/20/09/37/1000618346/1000618346_magnify_044.jpg)
+![PYNQ Z2](https://live.staticflickr.com/65535/47819083172_92655fe932_b.jpg)
 
 The PS (Processor) section of ZYNQ is designed to feed the data to a special module to be designed and receive the result. </br>
 Two number inputs are given and it is checked whether the expected output is the same. </br>
