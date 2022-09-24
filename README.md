@@ -6,7 +6,7 @@ $${\sqrt{\sqrt{A^2+B^2}A*B} }$$
 </br> with making this operation in PL we have much faster calculation, and in the PS part, the inputs of the operation are taken and processed in the PL part and the output is sent to the computer.
 ### Block Diagram of The System
 
-![Block Diagram]( )
+![Block Diagram](Readme photos/codesign png.png)
 
   
 ## Results
